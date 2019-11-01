@@ -1,0 +1,10 @@
+{
+  "name": "mumble-discord-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "mumble": "^0.3.21"
+  }
+}
